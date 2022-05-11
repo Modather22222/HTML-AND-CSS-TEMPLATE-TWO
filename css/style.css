@@ -1259,8 +1259,8 @@ header nav form i{
 
 
 .footer-two{
-    background-color: #2c4755;
-    height: 20px;
+    background-color: rgb(0 0 0 /50%);
+    height: 10px;
     text-align: center;
     color: #fff;
     font-size: 14px;
