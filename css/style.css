@@ -1249,13 +1249,7 @@ header nav form i{
 }
 
 .footer .container .copy-right{
-    margin-top: 40px
-}
-
-@media(max-width: 991px;){
-    .footer .container .copy-right{
-        margin: 20px 0;
-    }
+    margin: 40px 0 20px
 }
 
 .footer .container span{
