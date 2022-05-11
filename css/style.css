@@ -1259,14 +1259,15 @@ header nav form i{
 
 
 .footer-two{
-    background-color: var(--transparent-color);
+    background-color: rgb(15 116 143 /20%);
+    padding: 30px;
     text-align: center;
     color: #fff;
     font-size: 14px;
     font-weight: 400
 }
 
-.footer-two i{
+.footer-two .container  i{
     color: var(--main-color)
 }
 
