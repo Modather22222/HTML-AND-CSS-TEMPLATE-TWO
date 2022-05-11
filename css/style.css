@@ -1266,11 +1266,7 @@ header nav form i{
     font-weight: 400
 }
 
-.footer-two span{
-    color: var(--main-color)
-}
-
-.two i{
+.footer-two i{
     color: var(--main-color)
 }
 
