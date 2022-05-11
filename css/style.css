@@ -1254,7 +1254,7 @@ header nav form i{
 
 @media(max-width: 991px;){
     .footer .container .copy-right{
-        margin: 20px 0 0 0;
+        margin: 20px 0;
     }
 }
 
